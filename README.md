@@ -17,21 +17,4 @@
 ##甘特圖
 
 
-gantt
-
-dateFormat YYYY-MM-DD
-
-title 產品計劃表
-
-section 初期階段
-
-明確需求:  ,des 0 after des1 , 9d
-
-section 中期階段
-
-跟進開發: ,des 0 after des1 , 9d
-
-section 後期階段
-
-走查測試:  ,des 0 after des1 , 9d
 
