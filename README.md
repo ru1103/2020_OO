@@ -36,3 +36,4 @@ gantt
 
 
 ###PERT圖
+![g](pert.png "g")
