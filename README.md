@@ -82,10 +82,10 @@ gantt
 ![使用案例說明](使用案例圖.png "使用案例說明")
 
 ## 使用案例說明
-![使用案例說明](使用案例說明.png "使用案例說明")
+![系統環境圖](https://github.com/ru1103/2020_OO/blob/master/%E7%B3%BB%E7%B5%B1%E7%92%B0%E5%A2%83%E5%9C%96.png "系統環境圖")
 
 ## 使用案例圖
-![使用案例說明](https://github.com/ru1103/2020_OO/blob/master/DFD%20%E5%9C%960.png "使用案例說明")
+![DFD 圖0](https://github.com/ru1103/2020_OO/blob/master/DFD%20%E5%9C%960.png "DFD 圖0")
 
 
 
