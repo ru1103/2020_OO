@@ -94,6 +94,6 @@ gantt
 ![範例一活動圖](https://github.com/ru1103/2020_OO/blob/master/%E7%AF%84%E4%BE%8B1%E6%B4%BB%E5%8B%95%E5%9C%96.PNG "範例一活動圖")
 
 ## UML圖
-![UML圖]("UML圖")
+![UML圖](https://github.com/ru1103/2020_OO/blob/master/UML%E5%9C%96.png"UML圖")
 
 
