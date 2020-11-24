@@ -87,13 +87,14 @@ gantt
 ## DFD 圖0
 ![DFD 圖0](https://github.com/ru1103/2020_OO/blob/master/DFD%20%E5%9C%960.png "DFD 圖0")
 
-## 範例一循序圖
-![範例一循序圖](https://github.com/ru1103/2020_OO/blob/master/%E7%AF%84%E4%BE%8B1%E5%BE%AA%E5%BA%8F%E5%9C%96.PNG "範例一循序圖")
-
-## 範例一活動圖
-![範例一活動圖](https://github.com/ru1103/2020_OO/blob/master/%E7%AF%84%E4%BE%8B1%E6%B4%BB%E5%8B%95%E5%9C%96.PNG "範例一活動圖")
-
 ## UML圖
 ![UML圖](UML圖.png "UML圖")
+
+### 使用案例
+## 案例1.外國訪客來國自由行
+# 循序圖
+![範例一循序圖](https://github.com/ru1103/2020_OO/blob/master/%E7%AF%84%E4%BE%8B1%E5%BE%AA%E5%BA%8F%E5%9C%96.PNG "範例一循序圖")
+# 循序圖
+![範例一活動圖](https://github.com/ru1103/2020_OO/blob/master/%E7%AF%84%E4%BE%8B1%E6%B4%BB%E5%8B%95%E5%9C%96.PNG "範例一活動圖")
 
 
