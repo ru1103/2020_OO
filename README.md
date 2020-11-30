@@ -113,4 +113,7 @@ gantt
 ## 輸入欄位設定
 ![輸入欄位設定](https://github.com/ru1103/2020_OO/blob/master/%E8%BC%B8%E5%85%A5%E6%AC%84%E4%BD%8D%E8%A8%AD%E5%AE%9A.png "輸入欄位設定")
 
+### 分鏡圖
+
+![系統分析作業-1](系統分析作業-1.png "系統分析作業-1")
 
