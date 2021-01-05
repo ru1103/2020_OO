@@ -122,3 +122,5 @@ gantt
 ## ERD圖
 ![使用案例說明](ERD圖.png "使用案例說明")
 
+# 期末報告連結
+https://reurl.cc/gmgKdQ
